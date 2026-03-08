@@ -10,7 +10,7 @@
       
         <property name="connection.url">jdbc:mysql://localhost:3306/hibernate_one_to_many_uni?useSSL=false&amp;serverTimezone=UTC</property>
         <property name="connection.username">root</property>
-        <property name="connection.password">Dacchu@9164</property>
+        <property name="connection.password">PAssword</property>
 
         <!-- JDBC connection pool settings ... using built-in test pool -->
         <property name="connection.pool_size">1</property>
